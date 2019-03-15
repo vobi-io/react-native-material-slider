@@ -6,7 +6,7 @@ Material Slider for React Native
 
 ## Demo
 <div style="text-align:center">
-  <img src="./screenshots/demo.gif" alt="Demo" style="width:300px;"/>
+  <img src="./screenshots/example.gif" alt="Demo" style="width:300px;"/>
 </div>
 
 
