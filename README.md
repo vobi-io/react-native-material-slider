@@ -1,7 +1,7 @@
 ## Demo
 Material Slider for React Native
 
-[View on Snack](https://www.google.com)
+[View on Snack](https://snack.expo.io/@shakogegia/react-native-material-slider)
 
 
 ## Demo
