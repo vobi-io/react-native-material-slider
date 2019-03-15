@@ -1,0 +1,24 @@
+{
+  "name": "react-native-material-slider",
+  "version": "1.0.0",
+  "description": "React-Native Material Slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vobi-io/react-native-material-slider.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-slider",
+    "react-native-material-slider"
+  ],
+  "author": "vobi.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vobi-io/react-native-material-slider/issues"
+  },
+  "homepage": "https://github.com/vobi-io/react-native-material-slider#readme"
+}
